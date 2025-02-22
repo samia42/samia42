@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Samia Saif</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working at dubizzle Labs on the project called [Profolio](https://www.bayut.com/agentportal/profolio/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Samia Saif
+========================================================================================================================================
 
-- 🌱 I’m currently learning **AWS**
+<h3>A passionate Software Engineer</h3>
 
-- 📫 How to reach me **samiasaif42@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GwoJxcOaT-jwAR8R8mW7JQd-FcFHT5wR/view?usp=sharing)
-
-- ⚡ Fun fact **I am talkative and i like watching K-daramas**
+* 🌍  I'm based in Pakistan
+* ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
+* 🔭 I’m currently working at dubizzle Labs on the project called [Profolio](https://www.bayut.com/agentportal/profolio/)
+* 🧠  I'm learning AWS
+* 🤝  I'm open to collaborating on open source
+* 🌱 I’m currently learning **AWS**
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GwoJxcOaT-jwAR8R8mW7JQd-FcFHT5wR/view?usp=sharing)
+* ⚡ Fun fact **I am talkative and i like watching K-daramas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
