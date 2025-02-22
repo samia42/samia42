@@ -1,6 +1,4 @@
-# Hi 👋 My name is SamiaSaif
-========================
-
+<h1 align="center">Hi 👋, I'm Samia Saif</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> </p>
