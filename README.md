@@ -107,6 +107,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/samiasaif"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/samiasaif" /></a></p>
+<p><a href="https://ko-fi.com/https://ko-fi.com/samiasaif"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/samiasaif" /></a></p><br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> </p>
+<p> 
+  <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> 
+</p>
