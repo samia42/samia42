@@ -98,7 +98,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samia42&" alt="samia42" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia42&theme=oldie" alt="samia42" /></a> </p>
 
@@ -106,3 +107,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/samiasaif"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/samiasaif" /></a></p><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> </p>
