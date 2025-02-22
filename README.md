@@ -128,11 +128,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/samia42/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samia42&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/samia42/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samia42&repo=convoychat" />
 </a>
 
 
