@@ -98,7 +98,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" />
-  <img align="center" height="200px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" />
+  <img align="center" height="250px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" />
 </p>
 
 
