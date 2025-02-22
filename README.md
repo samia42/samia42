@@ -97,14 +97,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<p>
+
 <a href="https://github.com/samia42">    
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" />
 </a>
   <a href="https://github.com/samia42">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samia42&show_icons=true&theme=vue&locale=en&layout=compact" alt="samia42" />
   </a>
-</p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia42&theme=oldie" alt="samia42" /></a> </p>
