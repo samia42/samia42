@@ -6,11 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
 * 🔭 I’m currently working at dubizzle Labs on the project called [Profolio](https://www.bayut.com/agentportal/profolio/)
-* 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on open source
 * 🌱 I’m currently learning **AWS**
+* 🤝  I'm open to collaborating on open source
+* ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GwoJxcOaT-jwAR8R8mW7JQd-FcFHT5wR/view?usp=sharing)
 * ⚡ Fun fact **I am talkative and i like watching K-daramas**
 
