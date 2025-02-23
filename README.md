@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://dev.to/samia42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samia42" height="30" width="40" /></a>
+<a href="https://dev.to/samia-saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samia42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafiza-samia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiza-samia" height="30" width="40" /></a>
 </p>
 
