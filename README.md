@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>A passionate Software Engineer</h3>
 
-
 * 🌍  I'm based in Pakistan
 * 🔭 I’m currently working at dubizzle Labs on the project called [Profolio](https://www.bayut.com/agentportal/profolio/)
 * 🌱 I’m currently learning **AWS**
