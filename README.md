@@ -1,11 +1,11 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Samia Saif
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Samia
 ========================================================================================================================================
 
-<h3>A passionate Software Engineer</h3>
+<h3>A Software Engineer</h3>
 
 * 🌍  I'm based in Pakistan
-* 🔭 I’m currently working at dubizzle Labs on the project called [Profolio](https://www.bayut.com/agentportal/profolio/)
+* 🔭 I’m currently working at [Dubizzle Labs](https://www.linkedin.com/company/dubizzlelabs/posts/?feedView=all) on the project called [Profolio](https://www.bayut.com/)
 * 🌱 I’m currently learning **AWS**
 * 🤝  I'm open to collaborating on open source
 * ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
