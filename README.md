@@ -104,11 +104,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samia42&theme=oldie" alt="samia42" /></a> </p>
-
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://ko-fi.com/https://ko-fi.com/samiasaif"> 
