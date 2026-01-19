@@ -9,8 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌱 I’m currently learning **AWS**
 * 🤝  I'm open to collaborating on open source
 * ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
-* 📄 Know about my experiences [Resume](https://www.figma.com/design/nIZrq9ixASxDKA0dilF17U/Full-Stack-Dev?node-id=1-7&t=uB6PtrApfRKAxBgC-1)
-* ⚡ Fun fact **I am talkative and i like watching K-daramas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
