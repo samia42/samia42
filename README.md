@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Finland
 * 🔭 My recent work experience is at [Dubizzle Labs](https://www.linkedin.com/company/dubizzlelabs/posts/?feedView=all) on the project called [Profolio](https://www.bayut.com/)
-* 🌱 I’m currently learning **AWS**
+* 🌱 I’m currently learning **Embedded Systems**
 * 🤝  I'm open to collaborating on open source
 * ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
 
