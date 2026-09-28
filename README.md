@@ -1,125 +1,39 @@
+# Hi, I'm Samia 👋
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Samia
-========================================================================================================================================
+**Software Engineer · Test & Quality Engineering · Business & Data Analysis**
+MSc Computer Science student at Åbo Akademi University, Finland — 3+ years building and shipping production software.
 
-<h3>A Software Engineer</h3>
+- 🔍 **Quality first:** test-first (TDD) developer and former Release Manager; MSc focus on software testing, verification and system safety
+- 📊 **Data & business analysis:** SQL, Python, Snowflake/Databricks, requirements engineering, service design and business modelling
+- 🤖 **AI in practice:** production GPT-4 pipeline with output validation; spec-driven development with AI coding agents; MCP-based tooling
+- 🏆 ThatCryptoHackathon 2026 — 2nd & 3rd place
+- 🌍 Based in Finland · open to **Test/QA Engineer**, **Business Analyst**, **Software Engineer** and **Master's thesis** opportunities
+- ✉️ [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samiasaif42/)
 
-* 🌍  I'm based in Finland
-* 🔭 My recent work experience is at [Dubizzle Labs](https://www.linkedin.com/company/dubizzlelabs/posts/?feedView=all) on the project called [Profolio](https://www.bayut.com/)
-* 🌱 I’m currently learning **Embedded Systems**
-* 🤝  I'm open to collaborating on open source
-* ✉️  You can contact me at [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧪 Testing & Quality
+`JUnit 5` `Mockito` `PIT mutation testing` `JaCoCo` `Robot Framework` `Selenium` `Postman` `API testing` `test design & coverage` `STPA hazard analysis` `Dafny` `TLA+` `Event-B`
+
+### 💻 Engineering
+`TypeScript` `JavaScript` `Python` `Java` `C/C++` `PHP` `React` `Next.js` `Node.js` `NestJS` `Laravel` `REST APIs`
+
+### 🗄️ Data & Analytics
+`SQL` `PostgreSQL` `MySQL` `MongoDB` `Snowflake` `Databricks` `pandas` `scikit-learn` `NLP` `MATLAB` `Power BI` `CRISP-DM`
+
+### ⚙️ DevOps & Tools
+`Git` `GitHub Actions` `Docker` `AWS` `Linux` `Agile/Scrum`
+
+---
+
+### 📌 Highlights
+| Project | What it shows |
+|---|---|
+| [token-security-analyzer](https://github.com/samia42/token-security-analyzer) | Rug-pull risk detection via holder-distribution and contract analysis, exposed as an MCP tool for AI agents — 🥉 hackathon |
+| [northcrypto-hindsight](https://github.com/samia42/northcrypto-hindsight) | Browser prediction game with server-side anti-cheat validation of the leaderboard — 🥈 hackathon |
+| Maritime Vessel Intelligence Pipeline | Medallion (bronze/silver/gold) data pipeline on AIS, weather and port data; I owned transformation, testing and data-quality checks |
+| Smart Power Strip | IoT prototype measuring per-device current and cost with a real-time web dashboard |
+
 <p align="left">
-  
-<a href="https://dev.to/samia-saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samia42" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hafiza-samia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiza-samia" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=samia42&show_icons=true&hide_border=true" height="150" alt="GitHub stats" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  
-  <!-- Version Control & IDEs -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-
-  <!-- Frontend Technologies -->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-  </a>
-
-  <!-- CSS Frameworks & Preprocessors -->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-
-  <!-- Backend Technologies -->
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-
-
-  <!-- DevOps & Cloud -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-  </a>
-</p>
-
-
-<p>
-  <a href="https://github.com/samia42">
-    <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=samia42&show_icons=true&theme=vue&locale=en&layout=compact&card_width=320" />
-</a>
-<a href="https://github.com/samia42">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=samia42&layout=compact&langs_count=8&card_width=320" />
-</a>
-</p>
-
-
-
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/https://ko-fi.com/samiasaif"> 
-    <img  src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/samiasaif" />
-  </a>
-</p>
-
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=samia42&label=Profile%20views&color=0e75b6&style=flat" alt="samia42" /> 
-</p>
-
-
-
-
-
-<!--   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=samia42" /> -->
-
-
-
-
-
