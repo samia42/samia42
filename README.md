@@ -1,13 +1,13 @@
 # Hi, I'm Samia 👋
 
-**Software Engineer building reliable, data-driven solutions**  
-MSc Computer Science student at Åbo Akademi University, Finland — 3+ years building and shipping production software.
+**Bridging business, data and technology to deliver reliable solutions**  
+MSc Computer Science student at Åbo Akademi University, Finland — 3+ years of industry experience in tech.
 
-- 🔍 **Quality first:** test-first (TDD) developer and former Release Manager; MSc focus on software testing, verification and system safety
+- 🔍 **Quality first:** test-first (TDD) mindset and former Release Manager; MSc focus on software testing, verification and system safety
 - 📊 **Data & business analysis:** SQL, Python, Snowflake/Databricks, requirements engineering, service design and business modelling
 - 🤖 **AI in practice:** production GPT-4 pipeline with output validation; spec-driven development with AI coding agents; MCP-based tooling
 - 🏆 ThatCryptoHackathon 2026 — 2nd & 3rd place
-- 🌍 Based in Finland · I care about software that is reliable, measurable and genuinely useful to the business
+- 🌍 Based in Finland · I care about solutions that are reliable, measurable and genuinely useful to the business
 - ✉️ [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samiasaif42/)
 
 ---
@@ -15,11 +15,11 @@ MSc Computer Science student at Åbo Akademi University, Finland — 3+ years bu
 ### 🧪 Testing & Quality
 `JUnit 5` `Mockito` `PIT mutation testing` `JaCoCo` `Robot Framework` `Selenium` `Postman` `API testing` `test design & coverage` `STPA hazard analysis` `Dafny` `TLA+` `Event-B`
 
+### 📊 Analysis & Data
+`requirements engineering` `process & service design` `SQL` `PostgreSQL` `MySQL` `MongoDB` `Snowflake` `Databricks` `pandas` `scikit-learn` `NLP` `MATLAB` `Power BI` `CRISP-DM`
+
 ### 💻 Engineering
 `TypeScript` `JavaScript` `Python` `Java` `C/C++` `PHP` `React` `Next.js` `Node.js` `NestJS` `Laravel` `REST APIs`
-
-### 🗄️ Data & Analytics
-`SQL` `PostgreSQL` `MySQL` `MongoDB` `Snowflake` `Databricks` `pandas` `scikit-learn` `NLP` `MATLAB` `Power BI` `CRISP-DM`
 
 ### ⚙️ DevOps & Tools
 `Git` `GitHub Actions` `Docker` `AWS` `Linux` `Agile/Scrum`
