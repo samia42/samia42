@@ -1,13 +1,13 @@
 # Hi, I'm Samia 👋
 
-**Software Engineer · Test & Quality Engineering · Business & Data Analysis**  
+**Software Engineer building reliable, data-driven solutions**  
 MSc Computer Science student at Åbo Akademi University, Finland — 3+ years building and shipping production software.
 
 - 🔍 **Quality first:** test-first (TDD) developer and former Release Manager; MSc focus on software testing, verification and system safety
 - 📊 **Data & business analysis:** SQL, Python, Snowflake/Databricks, requirements engineering, service design and business modelling
 - 🤖 **AI in practice:** production GPT-4 pipeline with output validation; spec-driven development with AI coding agents; MCP-based tooling
 - 🏆 ThatCryptoHackathon 2026 — 2nd & 3rd place
-- 🌍 Based in Finland · open to **Test/QA Engineer**, **Business Analyst**, **Software Engineer** and **Master's thesis** opportunities
+- 🌍 Based in Finland · I care about software that is reliable, measurable and genuinely useful to the business
 - ✉️ [samiasaif42@gmail.com](mailto:samiasaif42@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samiasaif42/)
 
 ---
@@ -32,4 +32,4 @@ MSc Computer Science student at Åbo Akademi University, Finland — 3+ years bu
 | [token-security-analyzer](https://github.com/samia42/token-security-analyzer) | Rug-pull risk detection via holder-distribution and contract analysis, exposed as an MCP tool for AI agents — 🥉 hackathon |
 | [northcrypto-hindsight](https://github.com/samia42/northcrypto-hindsight) | Browser prediction game with server-side anti-cheat validation of the leaderboard — 🥈 hackathon |
 | Maritime Vessel Intelligence Pipeline | Medallion (bronze/silver/gold) data pipeline on AIS, weather and port data; I owned transformation, testing and data-quality checks |
-| Smart Power Strip | IoT prototype measuring per-device current and cost with a real-time web dashboard |
+| [Smart Power Strip](https://github.com/samia42/smart-strip-view) | IoT prototype measuring per-device current and cost with a real-time web dashboard |
