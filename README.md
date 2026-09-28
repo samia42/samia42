@@ -1,6 +1,6 @@
 # Hi, I'm Samia 👋
 
-**Software Engineer · Test & Quality Engineering · Business & Data Analysis**
+**Software Engineer · Test & Quality Engineering · Business & Data Analysis**  
 MSc Computer Science student at Åbo Akademi University, Finland — 3+ years building and shipping production software.
 
 - 🔍 **Quality first:** test-first (TDD) developer and former Release Manager; MSc focus on software testing, verification and system safety
@@ -33,7 +33,3 @@ MSc Computer Science student at Åbo Akademi University, Finland — 3+ years bu
 | [northcrypto-hindsight](https://github.com/samia42/northcrypto-hindsight) | Browser prediction game with server-side anti-cheat validation of the leaderboard — 🥈 hackathon |
 | Maritime Vessel Intelligence Pipeline | Medallion (bronze/silver/gold) data pipeline on AIS, weather and port data; I owned transformation, testing and data-quality checks |
 | Smart Power Strip | IoT prototype measuring per-device current and cost with a real-time web dashboard |
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=samia42&show_icons=true&hide_border=true" height="150" alt="GitHub stats" />
-</p>
